@@ -1,2 +1,3 @@
-# app-slides
-Official presentation mini-app
+# Презентация
+
+Простые слайды без +server.js.

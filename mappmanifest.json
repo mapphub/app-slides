@@ -1,0 +1,11 @@
+{
+  "id": "slides",
+  "name": "Презентация",
+  "version": "0.1.0",
+  "author": "mapphub",
+  "description": "Слайды",
+  "icon": "icon.svg",
+  "permissions": ["net", "share"],
+  "web": true,
+  "routes": { "root": "/", "app": "/index.html" }
+}
