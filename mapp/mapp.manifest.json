@@ -1,0 +1,12 @@
+{
+  "id": "slides",
+  "name": "Презентация",
+  "version": "0.3.0",
+  "description": "Слайды ведущий/зритель",
+  "icon": "icon.svg",
+  "routes": { "root": "public", "app": "public", "client": "public" },
+  "server": { "host": true, "client": true, "network": true },
+  "permissions": ["net", "share", "shell"],
+  "tags": ["present", "official"],
+  "author": "mapphub"
+}
